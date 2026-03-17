@@ -1,0 +1,42 @@
+# =====================================================================
+# MeshGraphNets 弯管数据集 (Tube Bending) - 过拟合测试配置
+# =====================================================================
+
+# --- 1. 路径设置 (Directories) ---
+data_dir: "dataset"                        # 你存放 4个 .npz 文件的原始目录
+preprocess_output_dir: "preprocessed"      # preprocessor.py 生成的 .pt 训练缓存存放地
+ckpt_path: "checkpoints/mgn_tube.pt"       # 训练保存的模型权重路径
+tensorboard_log_dir: "logs/tensorboard"    # TensorBoard 日志目录
+
+# --- 2. 数据集与训练步数 (Dataset & Steps) ---
+num_training_samples: 4                    # 【关键】目前只用 4 组数据进行过拟合
+num_training_time_steps: 91                # 【关键】Abaqus 导出的总帧数 (包括初始帧)
+num_test_samples: 4                        # 测试集也设为 4，方便直接看这 4 根管子的预测动画
+num_test_time_steps: 91                    # 测试总帧数
+
+# --- 3. 神经网络维度设置 (Network Architecture) ---
+num_input_features: 4                      # 【关键】节点输入: Node Type (One-hot 3维) + Thickness (1维) = 4
+num_edge_features: 4                       # 网格边输入: 相对位移 (X, Y, Z 3维) + 距离范数 (1维) = 4
+num_output_features: 6                     # 【关键】预测输出: 速度 (X, Y, Z 3维) + 应力 (1) + 应变 (1) + PEEQ (1) = 6
+
+# --- 4. 训练超参数 (Training Hyperparameters) ---
+epochs: 1000                               # 【关键】过拟合测试需要极大的 Epoch 强行让网络记住这 4 组数据
+batch_size: 1                              # MGN 面对变长节点网格，batch_size 必须为 1
+lr: 0.0001                                 # 初始学习率 (DeepMind 默认值)
+lr_decay_rate: 0.9999991                   # 学习率指数衰减率 (DeepMind 默认值)
+noise_std: 0.003                           # 训练时给历史坐标添加的随机游走噪声 (让模型学会纠错)
+
+# --- 5. 系统与底层加速优化 (System & Performance) ---
+num_dataloader_workers: 0                  # Windows 环境下建议设为 0 以防多线程报错，Linux可设为 4 或 8
+amp: False                                 # 自动混合精度 (过拟合阶段建议 False 求稳，正式跑 100 组时可开 True 省显存)
+use_apex: False                            # 是否使用 Nvidia Apex 优化器 (如果没有安装就设为 False)
+jit: False                                 # 是否使用 PyTorch 2.0 编译加速
+recompute_activation: False                # 显存优化：激活重计算 (如果显存够大设为 False 训练更快)
+do_concat_trick: False                     # 消息传递时的拼接技巧 (维持 False)
+num_processor_checkpoint_segments: 0       # 梯度检查点 (显存不足时可设为 4 或更高，目前设为 0)
+
+# --- 6. 预测与动画可视化设置 (Inference & Animation) ---
+frame_skip: 1                              # 制作 GIF 时跳过的帧数 (设为 1 表示逐帧渲染)
+frame_interval: 50                         # GIF 每帧停留的时间 (毫秒)
+# 可视化变量标识符 (ux, uy, uz, disp_mag 是自带的，如果你想可视化应力，可以在 inference.py 里添加)
+viz_vars: ["disp_mag"]
