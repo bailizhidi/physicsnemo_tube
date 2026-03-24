@@ -1,0 +1,5 @@
+[2026-03-18 13:21:29,338][checkpoint][INFO] - [92mLoaded model state dictionary /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.1000.mdlus to device cuda:1[0m
+[2026-03-18 13:21:29,594][checkpoint][INFO] - [92mLoaded checkpoint file /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.1000.pt to device cuda:1[0m
+[2026-03-18 13:21:29,599][checkpoint][INFO] - [92mLoaded optimizer state dictionary[0m
+[2026-03-18 13:21:29,600][checkpoint][INFO] - [92mLoaded scheduler state dictionary[0m
+[2026-03-18 13:21:29,600][checkpoint][INFO] - [92mLoaded grad scaler state dictionary[0m

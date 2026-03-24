@@ -20,7 +20,7 @@ from physicsnemo.datapipes.gnn.utils import load_json
 from physicsnemo.nn.functional import radius_search
 
 
-def add_world_edges(graph, world_edge_radius=0.03, edge_stats_path="edge_stats.json"):
+def add_world_edges(graph, world_edge_radius=1.1, edge_stats_path="edge_stats.json"):
     """
     Adds world edges to the graph.
     """

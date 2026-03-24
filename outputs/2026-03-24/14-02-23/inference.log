@@ -1,0 +1,7 @@
+[2026-03-24 14:02:23,441][main][INFO] - [94mStarting High-Performance VTU Export...[0m
+[2026-03-24 14:02:23,441][main][INFO] - [94mUsing cuda device[0m
+[2026-03-24 14:02:23,809][checkpoint][WARNING] - [93m`DistributedManager` not initialized already. Initializing now, but this might lead to unexpected errors[0m
+[2026-03-24 14:02:23,941][checkpoint][INFO] - [92mLoaded model state dictionary /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.300.mdlus to device cuda[0m
+[2026-03-24 14:02:24,229][checkpoint][INFO] - [92mLoaded checkpoint file /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.300.pt to device cuda[0m
+[2026-03-24 14:02:24,235][main][INFO] - [94mProcessing Test Sample 1...[0m
+[2026-03-24 14:02:34,862][main][INFO] - [94m✅ All VTU files exported to the 'vtk_output' directory! Ready for ParaView.[0m

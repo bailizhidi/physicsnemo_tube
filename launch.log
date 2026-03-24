@@ -1,0 +1,4 @@
+[14:02:23 - main - INFO] [94mStarting High-Performance VTU Export...[0m
+[14:02:23 - main - INFO] [94mUsing cuda device[0m
+[14:02:24 - main - INFO] [94mProcessing Test Sample 1...[0m
+[14:02:34 - main - INFO] [94m✅ All VTU files exported to the 'vtk_output' directory! Ready for ParaView.[0m

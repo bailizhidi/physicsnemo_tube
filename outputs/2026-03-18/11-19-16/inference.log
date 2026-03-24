@@ -1,0 +1,7 @@
+[2026-03-18 11:19:16,725][main][INFO] - [94mRollout started...[0m
+[2026-03-18 11:19:16,725][main][INFO] - [94mUsing cuda device[0m
+[2026-03-18 11:19:17,385][checkpoint][WARNING] - [93m`DistributedManager` not initialized already. Initializing now, but this might lead to unexpected errors[0m
+[2026-03-18 11:19:17,522][checkpoint][INFO] - [92mLoaded model state dictionary /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.1000.mdlus to device cuda[0m
+[2026-03-18 11:19:17,812][checkpoint][INFO] - [92mLoaded checkpoint file /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.1000.pt to device cuda[0m
+[2026-03-18 11:19:32,404][matplotlib.animation][INFO] - Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+[2026-03-18 11:19:32,409][matplotlib.animation][INFO] - MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1600x900 -pix_fmt rgba -framerate 20.0 -loglevel error -i pipe: -filter_complex 'split [a][b];[a] palettegen [p];[b][p] paletteuse' -y animations/animation.gif

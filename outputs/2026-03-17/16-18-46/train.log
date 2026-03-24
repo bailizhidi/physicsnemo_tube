@@ -1,0 +1,5 @@
+[2026-03-17 16:18:47,642][main][INFO] - [94mUsing Adam optimizer[0m
+[2026-03-17 16:18:47,667][checkpoint][WARNING] - [93mProvided checkpoint directory /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt does not exist, skipping load[0m
+[2026-03-17 16:18:47,667][checkpoint][WARNING] - [93mProvided checkpoint directory /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt does not exist, skipping load[0m
+[2026-03-17 16:18:47,668][checkpoint][WARNING] - [93mProvided checkpoint directory /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt does not exist, skipping load[0m
+[2026-03-17 16:18:47,669][main][INFO] - [94mTraining started...[0m

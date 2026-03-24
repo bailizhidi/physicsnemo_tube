@@ -1,0 +1,27 @@
+data_dir: dataset
+preprocess_output_dir: preprocessed
+ckpt_path: checkpoints/mgn_tube.pt
+tensorboard_log_dir: logs/tensorboard
+num_training_samples: 4
+num_training_time_steps: 91
+num_test_samples: 4
+num_test_time_steps: 91
+num_input_features: 4
+num_edge_features: 8
+num_output_features: 6
+epochs: 1000
+batch_size: 1
+lr: 0.0001
+lr_decay_rate: 0.9999991
+noise_std: 0.003
+num_dataloader_workers: 0
+amp: false
+use_apex: false
+jit: false
+recompute_activation: false
+do_concat_trick: false
+num_processor_checkpoint_segments: 0
+frame_skip: 10
+frame_interval: 50
+viz_vars:
+- disp_mag

@@ -1,0 +1,1132 @@
+[2026-03-24 12:41:51,812][main][INFO] - [94mUsing Adam optimizer[0m
+[2026-03-24 12:41:51,943][checkpoint][INFO] - [92mLoaded model state dictionary /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.19.mdlus to device cuda:0[0m
+[2026-03-24 12:41:52,203][checkpoint][INFO] - [92mLoaded checkpoint file /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.19.pt to device cuda:0[0m
+[2026-03-24 12:41:52,208][checkpoint][INFO] - [92mLoaded optimizer state dictionary[0m
+[2026-03-24 12:41:52,208][checkpoint][INFO] - [92mLoaded scheduler state dictionary[0m
+[2026-03-24 12:41:52,208][checkpoint][INFO] - [92mLoaded grad scaler state dictionary[0m
+[2026-03-24 12:41:52,210][main][INFO] - [94mTraining started...[0m
+[2026-03-24 12:42:08,508][main][INFO] - [94mepoch: 20, loss:  1.892e-01, time per epoch:  1.630e+01[0m
+[2026-03-24 12:42:08,709][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.20.mdlus[0m
+[2026-03-24 12:42:08,854][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.20.pt[0m
+[2026-03-24 12:42:08,855][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:42:25,902][main][INFO] - [94mepoch: 21, loss:  2.173e-01, time per epoch:  1.705e+01[0m
+[2026-03-24 12:42:26,045][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.21.mdlus[0m
+[2026-03-24 12:42:26,206][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.21.pt[0m
+[2026-03-24 12:42:26,206][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:42:43,137][main][INFO] - [94mepoch: 22, loss:  1.983e-01, time per epoch:  1.693e+01[0m
+[2026-03-24 12:42:43,276][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.22.mdlus[0m
+[2026-03-24 12:42:43,423][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.22.pt[0m
+[2026-03-24 12:42:43,424][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:43:00,087][main][INFO] - [94mepoch: 23, loss:  1.530e-01, time per epoch:  1.666e+01[0m
+[2026-03-24 12:43:00,225][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.23.mdlus[0m
+[2026-03-24 12:43:00,375][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.23.pt[0m
+[2026-03-24 12:43:00,375][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:43:16,941][main][INFO] - [94mepoch: 24, loss:  1.586e-01, time per epoch:  1.657e+01[0m
+[2026-03-24 12:43:17,092][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.24.mdlus[0m
+[2026-03-24 12:43:17,249][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.24.pt[0m
+[2026-03-24 12:43:17,249][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:43:34,525][main][INFO] - [94mepoch: 25, loss:  1.179e-01, time per epoch:  1.728e+01[0m
+[2026-03-24 12:43:34,675][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.25.mdlus[0m
+[2026-03-24 12:43:34,830][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.25.pt[0m
+[2026-03-24 12:43:34,831][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:43:51,817][main][INFO] - [94mepoch: 26, loss:  1.275e-01, time per epoch:  1.699e+01[0m
+[2026-03-24 12:43:51,962][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.26.mdlus[0m
+[2026-03-24 12:43:52,109][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.26.pt[0m
+[2026-03-24 12:43:52,109][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:44:09,214][main][INFO] - [94mepoch: 27, loss:  1.435e-01, time per epoch:  1.710e+01[0m
+[2026-03-24 12:44:09,371][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.27.mdlus[0m
+[2026-03-24 12:44:09,992][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.27.pt[0m
+[2026-03-24 12:44:09,992][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:44:26,442][main][INFO] - [94mepoch: 28, loss:  1.101e-01, time per epoch:  1.645e+01[0m
+[2026-03-24 12:44:26,569][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.28.mdlus[0m
+[2026-03-24 12:44:26,699][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.28.pt[0m
+[2026-03-24 12:44:26,700][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:44:42,818][main][INFO] - [94mepoch: 29, loss:  1.205e-01, time per epoch:  1.612e+01[0m
+[2026-03-24 12:44:42,970][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.29.mdlus[0m
+[2026-03-24 12:44:43,149][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.29.pt[0m
+[2026-03-24 12:44:43,149][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:45:00,085][main][INFO] - [94mepoch: 30, loss:  1.015e-01, time per epoch:  1.694e+01[0m
+[2026-03-24 12:45:00,236][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.30.mdlus[0m
+[2026-03-24 12:45:00,390][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.30.pt[0m
+[2026-03-24 12:45:00,390][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:45:17,176][main][INFO] - [94mepoch: 31, loss:  1.401e-01, time per epoch:  1.679e+01[0m
+[2026-03-24 12:45:17,311][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.31.mdlus[0m
+[2026-03-24 12:45:17,462][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.31.pt[0m
+[2026-03-24 12:45:17,462][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:45:34,412][main][INFO] - [94mepoch: 32, loss:  1.182e-01, time per epoch:  1.695e+01[0m
+[2026-03-24 12:45:34,567][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.32.mdlus[0m
+[2026-03-24 12:45:34,714][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.32.pt[0m
+[2026-03-24 12:45:34,714][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:45:51,445][main][INFO] - [94mepoch: 33, loss:  1.636e-01, time per epoch:  1.673e+01[0m
+[2026-03-24 12:45:51,587][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.33.mdlus[0m
+[2026-03-24 12:45:51,739][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.33.pt[0m
+[2026-03-24 12:45:51,740][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:46:08,419][main][INFO] - [94mepoch: 34, loss:  1.092e-01, time per epoch:  1.668e+01[0m
+[2026-03-24 12:46:08,564][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.34.mdlus[0m
+[2026-03-24 12:46:08,715][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.34.pt[0m
+[2026-03-24 12:46:08,716][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:46:25,577][main][INFO] - [94mepoch: 35, loss:  8.856e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 12:46:25,722][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.35.mdlus[0m
+[2026-03-24 12:46:25,873][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.35.pt[0m
+[2026-03-24 12:46:25,874][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:46:42,669][main][INFO] - [94mepoch: 36, loss:  1.182e-01, time per epoch:  1.679e+01[0m
+[2026-03-24 12:46:42,812][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.36.mdlus[0m
+[2026-03-24 12:46:42,958][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.36.pt[0m
+[2026-03-24 12:46:42,958][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:46:59,736][main][INFO] - [94mepoch: 37, loss:  1.123e-01, time per epoch:  1.678e+01[0m
+[2026-03-24 12:46:59,879][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.37.mdlus[0m
+[2026-03-24 12:47:00,048][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.37.pt[0m
+[2026-03-24 12:47:00,048][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:47:17,024][main][INFO] - [94mepoch: 38, loss:  8.185e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 12:47:17,171][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.38.mdlus[0m
+[2026-03-24 12:47:17,316][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.38.pt[0m
+[2026-03-24 12:47:17,316][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:47:34,547][main][INFO] - [94mepoch: 39, loss:  9.759e-02, time per epoch:  1.723e+01[0m
+[2026-03-24 12:47:34,701][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.39.mdlus[0m
+[2026-03-24 12:47:34,852][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.39.pt[0m
+[2026-03-24 12:47:34,852][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:47:51,549][main][INFO] - [94mepoch: 40, loss:  1.330e-01, time per epoch:  1.670e+01[0m
+[2026-03-24 12:47:51,702][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.40.mdlus[0m
+[2026-03-24 12:47:51,854][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.40.pt[0m
+[2026-03-24 12:47:51,854][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:48:08,536][main][INFO] - [94mepoch: 41, loss:  7.606e-02, time per epoch:  1.668e+01[0m
+[2026-03-24 12:48:08,687][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.41.mdlus[0m
+[2026-03-24 12:48:08,836][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.41.pt[0m
+[2026-03-24 12:48:08,836][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:48:25,267][main][INFO] - [94mepoch: 42, loss:  5.690e-02, time per epoch:  1.643e+01[0m
+[2026-03-24 12:48:25,426][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.42.mdlus[0m
+[2026-03-24 12:48:25,575][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.42.pt[0m
+[2026-03-24 12:48:25,575][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:48:42,583][main][INFO] - [94mepoch: 43, loss:  8.091e-02, time per epoch:  1.701e+01[0m
+[2026-03-24 12:48:42,732][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.43.mdlus[0m
+[2026-03-24 12:48:42,887][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.43.pt[0m
+[2026-03-24 12:48:42,888][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:48:59,860][main][INFO] - [94mepoch: 44, loss:  8.899e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 12:49:00,019][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.44.mdlus[0m
+[2026-03-24 12:49:00,179][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.44.pt[0m
+[2026-03-24 12:49:00,179][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:49:16,952][main][INFO] - [94mepoch: 45, loss:  2.680e-01, time per epoch:  1.677e+01[0m
+[2026-03-24 12:49:17,101][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.45.mdlus[0m
+[2026-03-24 12:49:17,244][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.45.pt[0m
+[2026-03-24 12:49:17,245][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:49:34,129][main][INFO] - [94mepoch: 46, loss:  7.326e-02, time per epoch:  1.688e+01[0m
+[2026-03-24 12:49:34,285][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.46.mdlus[0m
+[2026-03-24 12:49:34,436][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.46.pt[0m
+[2026-03-24 12:49:34,436][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:49:51,263][main][INFO] - [94mepoch: 47, loss:  5.331e-02, time per epoch:  1.683e+01[0m
+[2026-03-24 12:49:51,425][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.47.mdlus[0m
+[2026-03-24 12:49:51,572][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.47.pt[0m
+[2026-03-24 12:49:51,572][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:50:08,691][main][INFO] - [94mepoch: 48, loss:  6.382e-02, time per epoch:  1.712e+01[0m
+[2026-03-24 12:50:08,846][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.48.mdlus[0m
+[2026-03-24 12:50:09,003][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.48.pt[0m
+[2026-03-24 12:50:09,004][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:50:26,406][main][INFO] - [94mepoch: 49, loss:  6.172e-02, time per epoch:  1.740e+01[0m
+[2026-03-24 12:50:26,554][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.49.mdlus[0m
+[2026-03-24 12:50:26,699][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.49.pt[0m
+[2026-03-24 12:50:26,699][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:50:43,595][main][INFO] - [94mepoch: 50, loss:  8.308e-02, time per epoch:  1.690e+01[0m
+[2026-03-24 12:50:43,745][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.50.mdlus[0m
+[2026-03-24 12:50:43,891][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.50.pt[0m
+[2026-03-24 12:50:43,891][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:51:00,842][main][INFO] - [94mepoch: 51, loss:  7.863e-02, time per epoch:  1.695e+01[0m
+[2026-03-24 12:51:00,994][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.51.mdlus[0m
+[2026-03-24 12:51:01,153][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.51.pt[0m
+[2026-03-24 12:51:01,154][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:51:18,123][main][INFO] - [94mepoch: 52, loss:  8.235e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 12:51:18,264][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.52.mdlus[0m
+[2026-03-24 12:51:18,411][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.52.pt[0m
+[2026-03-24 12:51:18,412][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:51:35,476][main][INFO] - [94mepoch: 53, loss:  5.655e-02, time per epoch:  1.706e+01[0m
+[2026-03-24 12:51:35,618][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.53.mdlus[0m
+[2026-03-24 12:51:35,766][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.53.pt[0m
+[2026-03-24 12:51:35,767][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:51:52,486][main][INFO] - [94mepoch: 54, loss:  5.251e-02, time per epoch:  1.672e+01[0m
+[2026-03-24 12:51:52,632][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.54.mdlus[0m
+[2026-03-24 12:51:52,777][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.54.pt[0m
+[2026-03-24 12:51:52,777][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:52:09,705][main][INFO] - [94mepoch: 55, loss:  8.109e-02, time per epoch:  1.693e+01[0m
+[2026-03-24 12:52:09,865][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.55.mdlus[0m
+[2026-03-24 12:52:10,016][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.55.pt[0m
+[2026-03-24 12:52:10,016][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:52:26,619][main][INFO] - [94mepoch: 56, loss:  7.403e-02, time per epoch:  1.660e+01[0m
+[2026-03-24 12:52:26,753][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.56.mdlus[0m
+[2026-03-24 12:52:26,909][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.56.pt[0m
+[2026-03-24 12:52:26,909][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:52:43,760][main][INFO] - [94mepoch: 57, loss:  8.372e-02, time per epoch:  1.685e+01[0m
+[2026-03-24 12:52:43,906][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.57.mdlus[0m
+[2026-03-24 12:52:44,054][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.57.pt[0m
+[2026-03-24 12:52:44,055][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:53:01,000][main][INFO] - [94mepoch: 58, loss:  7.465e-02, time per epoch:  1.695e+01[0m
+[2026-03-24 12:53:01,121][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.58.mdlus[0m
+[2026-03-24 12:53:01,252][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.58.pt[0m
+[2026-03-24 12:53:01,252][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:53:18,031][main][INFO] - [94mepoch: 59, loss:  6.239e-02, time per epoch:  1.678e+01[0m
+[2026-03-24 12:53:18,172][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.59.mdlus[0m
+[2026-03-24 12:53:18,319][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.59.pt[0m
+[2026-03-24 12:53:18,319][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:53:35,306][main][INFO] - [94mepoch: 60, loss:  7.177e-02, time per epoch:  1.699e+01[0m
+[2026-03-24 12:53:35,449][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.60.mdlus[0m
+[2026-03-24 12:53:35,595][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.60.pt[0m
+[2026-03-24 12:53:35,596][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:53:52,796][main][INFO] - [94mepoch: 61, loss:  5.689e-02, time per epoch:  1.720e+01[0m
+[2026-03-24 12:53:52,946][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.61.mdlus[0m
+[2026-03-24 12:53:53,096][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.61.pt[0m
+[2026-03-24 12:53:53,097][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:54:10,382][main][INFO] - [94mepoch: 62, loss:  5.254e-02, time per epoch:  1.729e+01[0m
+[2026-03-24 12:54:10,523][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.62.mdlus[0m
+[2026-03-24 12:54:10,675][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.62.pt[0m
+[2026-03-24 12:54:10,675][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:54:28,320][main][INFO] - [94mepoch: 63, loss:  5.376e-02, time per epoch:  1.764e+01[0m
+[2026-03-24 12:54:28,467][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.63.mdlus[0m
+[2026-03-24 12:54:28,613][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.63.pt[0m
+[2026-03-24 12:54:28,613][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:54:45,211][main][INFO] - [94mepoch: 64, loss:  4.729e-02, time per epoch:  1.660e+01[0m
+[2026-03-24 12:54:45,361][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.64.mdlus[0m
+[2026-03-24 12:54:45,506][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.64.pt[0m
+[2026-03-24 12:54:45,507][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:55:02,243][main][INFO] - [94mepoch: 65, loss:  6.256e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 12:55:02,382][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.65.mdlus[0m
+[2026-03-24 12:55:02,527][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.65.pt[0m
+[2026-03-24 12:55:02,527][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:55:19,264][main][INFO] - [94mepoch: 66, loss:  3.838e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 12:55:19,411][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.66.mdlus[0m
+[2026-03-24 12:55:19,558][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.66.pt[0m
+[2026-03-24 12:55:19,558][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:55:36,344][main][INFO] - [94mepoch: 67, loss:  9.827e-02, time per epoch:  1.679e+01[0m
+[2026-03-24 12:55:36,480][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.67.mdlus[0m
+[2026-03-24 12:55:36,625][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.67.pt[0m
+[2026-03-24 12:55:36,625][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:55:53,407][main][INFO] - [94mepoch: 68, loss:  4.686e-02, time per epoch:  1.678e+01[0m
+[2026-03-24 12:55:53,547][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.68.mdlus[0m
+[2026-03-24 12:55:53,692][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.68.pt[0m
+[2026-03-24 12:55:53,693][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:56:10,271][main][INFO] - [94mepoch: 69, loss:  4.469e-02, time per epoch:  1.658e+01[0m
+[2026-03-24 12:56:10,419][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.69.mdlus[0m
+[2026-03-24 12:56:10,564][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.69.pt[0m
+[2026-03-24 12:56:10,564][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:56:28,226][main][INFO] - [94mepoch: 70, loss:  9.344e-02, time per epoch:  1.766e+01[0m
+[2026-03-24 12:56:28,358][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.70.mdlus[0m
+[2026-03-24 12:56:28,487][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.70.pt[0m
+[2026-03-24 12:56:28,487][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:56:43,805][main][INFO] - [94mepoch: 71, loss:  6.075e-02, time per epoch:  1.532e+01[0m
+[2026-03-24 12:56:43,952][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.71.mdlus[0m
+[2026-03-24 12:56:44,114][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.71.pt[0m
+[2026-03-24 12:56:44,115][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:57:00,953][main][INFO] - [94mepoch: 72, loss:  4.843e-02, time per epoch:  1.684e+01[0m
+[2026-03-24 12:57:01,109][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.72.mdlus[0m
+[2026-03-24 12:57:01,267][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.72.pt[0m
+[2026-03-24 12:57:01,267][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:57:17,334][main][INFO] - [94mepoch: 73, loss:  4.673e-02, time per epoch:  1.607e+01[0m
+[2026-03-24 12:57:17,487][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.73.mdlus[0m
+[2026-03-24 12:57:17,639][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.73.pt[0m
+[2026-03-24 12:57:17,640][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:57:34,252][main][INFO] - [94mepoch: 74, loss:  3.542e-02, time per epoch:  1.661e+01[0m
+[2026-03-24 12:57:34,402][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.74.mdlus[0m
+[2026-03-24 12:57:34,563][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.74.pt[0m
+[2026-03-24 12:57:34,563][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:57:51,422][main][INFO] - [94mepoch: 75, loss:  7.379e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 12:57:51,585][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.75.mdlus[0m
+[2026-03-24 12:57:51,738][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.75.pt[0m
+[2026-03-24 12:57:51,738][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:58:08,679][main][INFO] - [94mepoch: 76, loss:  4.594e-02, time per epoch:  1.694e+01[0m
+[2026-03-24 12:58:08,830][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.76.mdlus[0m
+[2026-03-24 12:58:08,990][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.76.pt[0m
+[2026-03-24 12:58:08,990][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:58:25,909][main][INFO] - [94mepoch: 77, loss:  5.605e-02, time per epoch:  1.692e+01[0m
+[2026-03-24 12:58:26,057][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.77.mdlus[0m
+[2026-03-24 12:58:26,210][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.77.pt[0m
+[2026-03-24 12:58:26,210][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:58:42,983][main][INFO] - [94mepoch: 78, loss:  4.081e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 12:58:43,145][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.78.mdlus[0m
+[2026-03-24 12:58:43,289][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.78.pt[0m
+[2026-03-24 12:58:43,289][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:59:00,267][main][INFO] - [94mepoch: 79, loss:  3.997e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 12:59:00,411][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.79.mdlus[0m
+[2026-03-24 12:59:00,557][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.79.pt[0m
+[2026-03-24 12:59:00,557][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:59:17,581][main][INFO] - [94mepoch: 80, loss:  4.725e-02, time per epoch:  1.702e+01[0m
+[2026-03-24 12:59:17,727][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.80.mdlus[0m
+[2026-03-24 12:59:17,873][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.80.pt[0m
+[2026-03-24 12:59:17,874][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:59:34,637][main][INFO] - [94mepoch: 81, loss:  3.930e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 12:59:34,781][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.81.mdlus[0m
+[2026-03-24 12:59:34,929][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.81.pt[0m
+[2026-03-24 12:59:34,930][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 12:59:51,749][main][INFO] - [94mepoch: 82, loss:  4.379e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 12:59:51,899][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.82.mdlus[0m
+[2026-03-24 12:59:52,045][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.82.pt[0m
+[2026-03-24 12:59:52,045][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:00:08,952][main][INFO] - [94mepoch: 83, loss:  1.157e-01, time per epoch:  1.691e+01[0m
+[2026-03-24 13:00:09,103][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.83.mdlus[0m
+[2026-03-24 13:00:09,255][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.83.pt[0m
+[2026-03-24 13:00:09,255][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:00:25,962][main][INFO] - [94mepoch: 84, loss:  5.154e-02, time per epoch:  1.671e+01[0m
+[2026-03-24 13:00:26,109][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.84.mdlus[0m
+[2026-03-24 13:00:26,263][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.84.pt[0m
+[2026-03-24 13:00:26,264][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:00:43,700][main][INFO] - [94mepoch: 85, loss:  3.992e-02, time per epoch:  1.744e+01[0m
+[2026-03-24 13:00:43,854][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.85.mdlus[0m
+[2026-03-24 13:00:44,000][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.85.pt[0m
+[2026-03-24 13:00:44,000][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:01:00,818][main][INFO] - [94mepoch: 86, loss:  4.475e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:01:00,974][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.86.mdlus[0m
+[2026-03-24 13:01:01,121][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.86.pt[0m
+[2026-03-24 13:01:01,121][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:01:18,238][main][INFO] - [94mepoch: 87, loss:  4.106e-02, time per epoch:  1.712e+01[0m
+[2026-03-24 13:01:18,442][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.87.mdlus[0m
+[2026-03-24 13:01:18,592][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.87.pt[0m
+[2026-03-24 13:01:18,593][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:01:35,478][main][INFO] - [94mepoch: 88, loss:  4.775e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:01:35,653][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.88.mdlus[0m
+[2026-03-24 13:01:35,802][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.88.pt[0m
+[2026-03-24 13:01:35,802][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:01:52,804][main][INFO] - [94mepoch: 89, loss:  3.419e-02, time per epoch:  1.700e+01[0m
+[2026-03-24 13:01:52,958][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.89.mdlus[0m
+[2026-03-24 13:01:53,111][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.89.pt[0m
+[2026-03-24 13:01:53,111][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:02:09,997][main][INFO] - [94mepoch: 90, loss:  4.894e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:02:10,147][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.90.mdlus[0m
+[2026-03-24 13:02:10,296][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.90.pt[0m
+[2026-03-24 13:02:10,296][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:02:28,006][main][INFO] - [94mepoch: 91, loss:  3.508e-02, time per epoch:  1.771e+01[0m
+[2026-03-24 13:02:28,137][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.91.mdlus[0m
+[2026-03-24 13:02:28,264][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.91.pt[0m
+[2026-03-24 13:02:28,264][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:02:44,745][main][INFO] - [94mepoch: 92, loss:  4.067e-02, time per epoch:  1.648e+01[0m
+[2026-03-24 13:02:44,895][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.92.mdlus[0m
+[2026-03-24 13:02:45,044][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.92.pt[0m
+[2026-03-24 13:02:45,044][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:03:02,092][main][INFO] - [94mepoch: 93, loss:  3.449e-02, time per epoch:  1.705e+01[0m
+[2026-03-24 13:03:02,240][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.93.mdlus[0m
+[2026-03-24 13:03:02,390][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.93.pt[0m
+[2026-03-24 13:03:02,390][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:03:19,282][main][INFO] - [94mepoch: 94, loss:  4.790e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:03:19,429][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.94.mdlus[0m
+[2026-03-24 13:03:19,577][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.94.pt[0m
+[2026-03-24 13:03:19,577][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:03:36,497][main][INFO] - [94mepoch: 95, loss:  2.240e-01, time per epoch:  1.692e+01[0m
+[2026-03-24 13:03:36,663][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.95.mdlus[0m
+[2026-03-24 13:03:36,822][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.95.pt[0m
+[2026-03-24 13:03:36,822][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:03:53,621][main][INFO] - [94mepoch: 96, loss:  5.849e-02, time per epoch:  1.680e+01[0m
+[2026-03-24 13:03:53,774][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.96.mdlus[0m
+[2026-03-24 13:03:53,933][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.96.pt[0m
+[2026-03-24 13:03:53,934][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:04:10,540][main][INFO] - [94mepoch: 97, loss:  3.763e-02, time per epoch:  1.661e+01[0m
+[2026-03-24 13:04:10,690][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.97.mdlus[0m
+[2026-03-24 13:04:10,852][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.97.pt[0m
+[2026-03-24 13:04:10,852][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:04:27,979][main][INFO] - [94mepoch: 98, loss:  6.944e-02, time per epoch:  1.713e+01[0m
+[2026-03-24 13:04:28,118][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.98.mdlus[0m
+[2026-03-24 13:04:28,267][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.98.pt[0m
+[2026-03-24 13:04:28,267][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:04:45,141][main][INFO] - [94mepoch: 99, loss:  3.666e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:04:45,288][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.99.mdlus[0m
+[2026-03-24 13:04:45,434][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.99.pt[0m
+[2026-03-24 13:04:45,434][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:05:02,425][main][INFO] - [94mepoch: 100, loss:  3.902e-02, time per epoch:  1.699e+01[0m
+[2026-03-24 13:05:02,580][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.100.mdlus[0m
+[2026-03-24 13:05:02,730][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.100.pt[0m
+[2026-03-24 13:05:02,730][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:05:19,434][main][INFO] - [94mepoch: 101, loss:  3.817e-02, time per epoch:  1.670e+01[0m
+[2026-03-24 13:05:19,583][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.101.mdlus[0m
+[2026-03-24 13:05:19,731][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.101.pt[0m
+[2026-03-24 13:05:19,731][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:05:36,710][main][INFO] - [94mepoch: 102, loss:  4.288e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 13:05:36,860][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.102.mdlus[0m
+[2026-03-24 13:05:37,011][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.102.pt[0m
+[2026-03-24 13:05:37,012][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:05:53,786][main][INFO] - [94mepoch: 103, loss:  4.722e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 13:05:53,941][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.103.mdlus[0m
+[2026-03-24 13:05:54,099][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.103.pt[0m
+[2026-03-24 13:05:54,099][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:06:10,829][main][INFO] - [94mepoch: 104, loss:  2.610e-02, time per epoch:  1.673e+01[0m
+[2026-03-24 13:06:10,979][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.104.mdlus[0m
+[2026-03-24 13:06:11,126][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.104.pt[0m
+[2026-03-24 13:06:11,126][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:06:27,640][main][INFO] - [94mepoch: 105, loss:  4.310e-02, time per epoch:  1.651e+01[0m
+[2026-03-24 13:06:27,785][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.105.mdlus[0m
+[2026-03-24 13:06:27,929][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.105.pt[0m
+[2026-03-24 13:06:27,929][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:06:44,771][main][INFO] - [94mepoch: 106, loss:  2.133e-01, time per epoch:  1.684e+01[0m
+[2026-03-24 13:06:44,927][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.106.mdlus[0m
+[2026-03-24 13:06:45,077][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.106.pt[0m
+[2026-03-24 13:06:45,077][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:07:01,634][main][INFO] - [94mepoch: 107, loss:  3.263e-02, time per epoch:  1.656e+01[0m
+[2026-03-24 13:07:01,776][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.107.mdlus[0m
+[2026-03-24 13:07:01,921][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.107.pt[0m
+[2026-03-24 13:07:01,921][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:07:18,739][main][INFO] - [94mepoch: 108, loss:  3.289e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:07:18,888][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.108.mdlus[0m
+[2026-03-24 13:07:19,047][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.108.pt[0m
+[2026-03-24 13:07:19,048][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:07:35,655][main][INFO] - [94mepoch: 109, loss:  3.919e-02, time per epoch:  1.661e+01[0m
+[2026-03-24 13:07:35,806][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.109.mdlus[0m
+[2026-03-24 13:07:35,958][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.109.pt[0m
+[2026-03-24 13:07:35,958][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:07:52,777][main][INFO] - [94mepoch: 110, loss:  6.596e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:07:52,923][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.110.mdlus[0m
+[2026-03-24 13:07:53,073][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.110.pt[0m
+[2026-03-24 13:07:53,074][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:08:10,050][main][INFO] - [94mepoch: 111, loss:  3.949e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 13:08:10,200][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.111.mdlus[0m
+[2026-03-24 13:08:10,347][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.111.pt[0m
+[2026-03-24 13:08:10,347][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:08:27,502][main][INFO] - [94mepoch: 112, loss:  4.575e-02, time per epoch:  1.715e+01[0m
+[2026-03-24 13:08:27,651][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.112.mdlus[0m
+[2026-03-24 13:08:27,781][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.112.pt[0m
+[2026-03-24 13:08:27,781][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:08:44,619][main][INFO] - [94mepoch: 113, loss:  6.746e-02, time per epoch:  1.684e+01[0m
+[2026-03-24 13:08:44,771][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.113.mdlus[0m
+[2026-03-24 13:08:44,918][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.113.pt[0m
+[2026-03-24 13:08:44,919][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:09:02,043][main][INFO] - [94mepoch: 114, loss:  3.241e-02, time per epoch:  1.712e+01[0m
+[2026-03-24 13:09:02,177][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.114.mdlus[0m
+[2026-03-24 13:09:02,324][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.114.pt[0m
+[2026-03-24 13:09:02,324][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:09:19,233][main][INFO] - [94mepoch: 115, loss:  3.695e-02, time per epoch:  1.691e+01[0m
+[2026-03-24 13:09:19,381][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.115.mdlus[0m
+[2026-03-24 13:09:19,540][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.115.pt[0m
+[2026-03-24 13:09:19,540][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:09:36,507][main][INFO] - [94mepoch: 116, loss:  6.048e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:09:36,654][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.116.mdlus[0m
+[2026-03-24 13:09:36,806][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.116.pt[0m
+[2026-03-24 13:09:36,806][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:09:53,621][main][INFO] - [94mepoch: 117, loss:  2.858e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:09:53,778][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.117.mdlus[0m
+[2026-03-24 13:09:53,943][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.117.pt[0m
+[2026-03-24 13:09:53,943][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:10:10,837][main][INFO] - [94mepoch: 118, loss:  2.073e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:10:10,986][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.118.mdlus[0m
+[2026-03-24 13:10:11,132][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.118.pt[0m
+[2026-03-24 13:10:11,132][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:10:28,230][main][INFO] - [94mepoch: 119, loss:  2.776e-02, time per epoch:  1.710e+01[0m
+[2026-03-24 13:10:28,373][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.119.mdlus[0m
+[2026-03-24 13:10:28,521][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.119.pt[0m
+[2026-03-24 13:10:28,522][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:10:45,396][main][INFO] - [94mepoch: 120, loss:  5.961e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:10:45,542][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.120.mdlus[0m
+[2026-03-24 13:10:45,708][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.120.pt[0m
+[2026-03-24 13:10:45,708][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:11:03,010][main][INFO] - [94mepoch: 121, loss:  2.689e-02, time per epoch:  1.730e+01[0m
+[2026-03-24 13:11:03,162][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.121.mdlus[0m
+[2026-03-24 13:11:03,315][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.121.pt[0m
+[2026-03-24 13:11:03,315][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:11:20,473][main][INFO] - [94mepoch: 122, loss:  4.607e-02, time per epoch:  1.716e+01[0m
+[2026-03-24 13:11:20,618][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.122.mdlus[0m
+[2026-03-24 13:11:20,762][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.122.pt[0m
+[2026-03-24 13:11:20,762][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:11:37,785][main][INFO] - [94mepoch: 123, loss:  3.764e-02, time per epoch:  1.702e+01[0m
+[2026-03-24 13:11:37,931][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.123.mdlus[0m
+[2026-03-24 13:11:38,080][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.123.pt[0m
+[2026-03-24 13:11:38,080][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:11:55,023][main][INFO] - [94mepoch: 124, loss:  3.603e-02, time per epoch:  1.694e+01[0m
+[2026-03-24 13:11:55,172][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.124.mdlus[0m
+[2026-03-24 13:11:55,323][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.124.pt[0m
+[2026-03-24 13:11:55,323][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:12:12,289][main][INFO] - [94mepoch: 125, loss:  3.123e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:12:12,444][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.125.mdlus[0m
+[2026-03-24 13:12:12,593][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.125.pt[0m
+[2026-03-24 13:12:12,593][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:12:29,610][main][INFO] - [94mepoch: 126, loss:  3.921e-02, time per epoch:  1.702e+01[0m
+[2026-03-24 13:12:29,771][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.126.mdlus[0m
+[2026-03-24 13:12:29,916][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.126.pt[0m
+[2026-03-24 13:12:29,917][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:12:46,743][main][INFO] - [94mepoch: 127, loss:  3.693e-02, time per epoch:  1.683e+01[0m
+[2026-03-24 13:12:46,895][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.127.mdlus[0m
+[2026-03-24 13:12:47,043][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.127.pt[0m
+[2026-03-24 13:12:47,044][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:13:04,035][main][INFO] - [94mepoch: 128, loss:  2.671e-02, time per epoch:  1.699e+01[0m
+[2026-03-24 13:13:04,189][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.128.mdlus[0m
+[2026-03-24 13:13:04,335][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.128.pt[0m
+[2026-03-24 13:13:04,335][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:13:20,886][main][INFO] - [94mepoch: 129, loss:  4.144e-02, time per epoch:  1.655e+01[0m
+[2026-03-24 13:13:21,036][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.129.mdlus[0m
+[2026-03-24 13:13:21,184][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.129.pt[0m
+[2026-03-24 13:13:21,184][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:13:38,380][main][INFO] - [94mepoch: 130, loss:  3.119e-02, time per epoch:  1.720e+01[0m
+[2026-03-24 13:13:38,523][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.130.mdlus[0m
+[2026-03-24 13:13:38,675][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.130.pt[0m
+[2026-03-24 13:13:38,675][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:13:55,538][main][INFO] - [94mepoch: 131, loss:  2.888e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:13:55,681][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.131.mdlus[0m
+[2026-03-24 13:13:55,831][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.131.pt[0m
+[2026-03-24 13:13:55,831][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:14:12,613][main][INFO] - [94mepoch: 132, loss:  3.157e-02, time per epoch:  1.678e+01[0m
+[2026-03-24 13:14:12,766][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.132.mdlus[0m
+[2026-03-24 13:14:12,910][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.132.pt[0m
+[2026-03-24 13:14:12,911][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:14:30,326][main][INFO] - [94mepoch: 133, loss:  4.158e-02, time per epoch:  1.742e+01[0m
+[2026-03-24 13:14:30,476][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.133.mdlus[0m
+[2026-03-24 13:14:30,626][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.133.pt[0m
+[2026-03-24 13:14:30,626][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:14:47,392][main][INFO] - [94mepoch: 134, loss:  3.864e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 13:14:47,529][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.134.mdlus[0m
+[2026-03-24 13:14:47,679][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.134.pt[0m
+[2026-03-24 13:14:47,679][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:15:04,410][main][INFO] - [94mepoch: 135, loss:  5.696e-02, time per epoch:  1.673e+01[0m
+[2026-03-24 13:15:04,561][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.135.mdlus[0m
+[2026-03-24 13:15:04,711][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.135.pt[0m
+[2026-03-24 13:15:04,712][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:15:21,628][main][INFO] - [94mepoch: 136, loss:  2.663e-02, time per epoch:  1.692e+01[0m
+[2026-03-24 13:15:21,790][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.136.mdlus[0m
+[2026-03-24 13:15:21,949][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.136.pt[0m
+[2026-03-24 13:15:21,949][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:15:38,616][main][INFO] - [94mepoch: 137, loss:  2.590e-02, time per epoch:  1.667e+01[0m
+[2026-03-24 13:15:38,770][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.137.mdlus[0m
+[2026-03-24 13:15:38,914][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.137.pt[0m
+[2026-03-24 13:15:38,914][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:15:55,824][main][INFO] - [94mepoch: 138, loss:  3.291e-02, time per epoch:  1.691e+01[0m
+[2026-03-24 13:15:55,986][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.138.mdlus[0m
+[2026-03-24 13:15:56,140][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.138.pt[0m
+[2026-03-24 13:15:56,140][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:16:13,021][main][INFO] - [94mepoch: 139, loss:  2.662e-02, time per epoch:  1.688e+01[0m
+[2026-03-24 13:16:13,173][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.139.mdlus[0m
+[2026-03-24 13:16:13,322][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.139.pt[0m
+[2026-03-24 13:16:13,323][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:16:30,139][main][INFO] - [94mepoch: 140, loss:  2.368e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:16:30,292][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.140.mdlus[0m
+[2026-03-24 13:16:30,441][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.140.pt[0m
+[2026-03-24 13:16:30,442][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:16:47,411][main][INFO] - [94mepoch: 141, loss:  5.982e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:16:47,561][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.141.mdlus[0m
+[2026-03-24 13:16:47,707][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.141.pt[0m
+[2026-03-24 13:16:47,707][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:17:04,640][main][INFO] - [94mepoch: 142, loss:  3.460e-02, time per epoch:  1.693e+01[0m
+[2026-03-24 13:17:04,794][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.142.mdlus[0m
+[2026-03-24 13:17:04,939][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.142.pt[0m
+[2026-03-24 13:17:04,940][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:17:21,611][main][INFO] - [94mepoch: 143, loss:  3.036e-02, time per epoch:  1.667e+01[0m
+[2026-03-24 13:17:21,756][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.143.mdlus[0m
+[2026-03-24 13:17:21,904][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.143.pt[0m
+[2026-03-24 13:17:21,904][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:17:38,660][main][INFO] - [94mepoch: 144, loss:  3.282e-02, time per epoch:  1.675e+01[0m
+[2026-03-24 13:17:38,813][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.144.mdlus[0m
+[2026-03-24 13:17:38,960][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.144.pt[0m
+[2026-03-24 13:17:38,961][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:17:55,119][main][INFO] - [94mepoch: 145, loss:  2.124e-02, time per epoch:  1.616e+01[0m
+[2026-03-24 13:17:55,276][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.145.mdlus[0m
+[2026-03-24 13:17:55,424][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.145.pt[0m
+[2026-03-24 13:17:55,424][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:18:11,691][main][INFO] - [94mepoch: 146, loss:  2.516e-02, time per epoch:  1.627e+01[0m
+[2026-03-24 13:18:11,835][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.146.mdlus[0m
+[2026-03-24 13:18:11,983][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.146.pt[0m
+[2026-03-24 13:18:11,984][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:18:29,036][main][INFO] - [94mepoch: 147, loss:  1.902e-02, time per epoch:  1.705e+01[0m
+[2026-03-24 13:18:29,176][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.147.mdlus[0m
+[2026-03-24 13:18:29,327][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.147.pt[0m
+[2026-03-24 13:18:29,328][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:18:44,945][main][INFO] - [94mepoch: 148, loss:  2.734e-02, time per epoch:  1.562e+01[0m
+[2026-03-24 13:18:45,086][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.148.mdlus[0m
+[2026-03-24 13:18:45,236][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.148.pt[0m
+[2026-03-24 13:18:45,237][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:19:02,140][main][INFO] - [94mepoch: 149, loss:  1.876e-02, time per epoch:  1.690e+01[0m
+[2026-03-24 13:19:02,293][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.149.mdlus[0m
+[2026-03-24 13:19:02,445][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.149.pt[0m
+[2026-03-24 13:19:02,445][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:19:19,385][main][INFO] - [94mepoch: 150, loss:  2.961e-02, time per epoch:  1.694e+01[0m
+[2026-03-24 13:19:19,536][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.150.mdlus[0m
+[2026-03-24 13:19:19,683][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.150.pt[0m
+[2026-03-24 13:19:19,683][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:19:36,223][main][INFO] - [94mepoch: 151, loss:  2.005e-02, time per epoch:  1.654e+01[0m
+[2026-03-24 13:19:36,359][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.151.mdlus[0m
+[2026-03-24 13:19:36,511][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.151.pt[0m
+[2026-03-24 13:19:36,512][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:19:53,213][main][INFO] - [94mepoch: 152, loss:  1.921e-01, time per epoch:  1.670e+01[0m
+[2026-03-24 13:19:53,341][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.152.mdlus[0m
+[2026-03-24 13:19:53,471][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.152.pt[0m
+[2026-03-24 13:19:53,471][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:20:07,742][main][INFO] - [94mepoch: 153, loss:  2.919e-02, time per epoch:  1.427e+01[0m
+[2026-03-24 13:20:07,872][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.153.mdlus[0m
+[2026-03-24 13:20:08,002][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.153.pt[0m
+[2026-03-24 13:20:08,002][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:20:25,149][main][INFO] - [94mepoch: 154, loss:  3.265e-02, time per epoch:  1.715e+01[0m
+[2026-03-24 13:20:25,312][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.154.mdlus[0m
+[2026-03-24 13:20:25,461][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.154.pt[0m
+[2026-03-24 13:20:25,462][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:20:42,324][main][INFO] - [94mepoch: 155, loss:  2.792e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:20:42,474][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.155.mdlus[0m
+[2026-03-24 13:20:42,628][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.155.pt[0m
+[2026-03-24 13:20:42,628][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:20:59,501][main][INFO] - [94mepoch: 156, loss:  2.543e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:20:59,644][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.156.mdlus[0m
+[2026-03-24 13:20:59,795][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.156.pt[0m
+[2026-03-24 13:20:59,796][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:21:16,662][main][INFO] - [94mepoch: 157, loss:  2.116e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:21:16,815][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.157.mdlus[0m
+[2026-03-24 13:21:16,968][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.157.pt[0m
+[2026-03-24 13:21:16,968][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:21:33,600][main][INFO] - [94mepoch: 158, loss:  1.601e-02, time per epoch:  1.663e+01[0m
+[2026-03-24 13:21:33,743][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.158.mdlus[0m
+[2026-03-24 13:21:33,889][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.158.pt[0m
+[2026-03-24 13:21:33,889][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:21:50,852][main][INFO] - [94mepoch: 159, loss:  2.630e-02, time per epoch:  1.696e+01[0m
+[2026-03-24 13:21:51,011][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.159.mdlus[0m
+[2026-03-24 13:21:51,158][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.159.pt[0m
+[2026-03-24 13:21:51,158][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:22:08,048][main][INFO] - [94mepoch: 160, loss:  2.200e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:22:08,196][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.160.mdlus[0m
+[2026-03-24 13:22:08,343][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.160.pt[0m
+[2026-03-24 13:22:08,343][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:22:25,470][main][INFO] - [94mepoch: 161, loss:  3.180e-02, time per epoch:  1.713e+01[0m
+[2026-03-24 13:22:25,613][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.161.mdlus[0m
+[2026-03-24 13:22:25,762][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.161.pt[0m
+[2026-03-24 13:22:25,762][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:22:42,691][main][INFO] - [94mepoch: 162, loss:  2.711e-02, time per epoch:  1.693e+01[0m
+[2026-03-24 13:22:42,854][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.162.mdlus[0m
+[2026-03-24 13:22:43,002][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.162.pt[0m
+[2026-03-24 13:22:43,002][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:22:59,604][main][INFO] - [94mepoch: 163, loss:  2.801e-02, time per epoch:  1.660e+01[0m
+[2026-03-24 13:22:59,744][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.163.mdlus[0m
+[2026-03-24 13:22:59,892][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.163.pt[0m
+[2026-03-24 13:22:59,893][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:23:16,804][main][INFO] - [94mepoch: 164, loss:  2.547e-02, time per epoch:  1.691e+01[0m
+[2026-03-24 13:23:16,950][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.164.mdlus[0m
+[2026-03-24 13:23:17,098][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.164.pt[0m
+[2026-03-24 13:23:17,098][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:23:33,867][main][INFO] - [94mepoch: 165, loss:  2.803e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 13:23:34,009][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.165.mdlus[0m
+[2026-03-24 13:23:34,155][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.165.pt[0m
+[2026-03-24 13:23:34,155][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:23:51,083][main][INFO] - [94mepoch: 166, loss:  3.959e-02, time per epoch:  1.693e+01[0m
+[2026-03-24 13:23:51,223][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.166.mdlus[0m
+[2026-03-24 13:23:51,371][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.166.pt[0m
+[2026-03-24 13:23:51,371][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:24:08,230][main][INFO] - [94mepoch: 167, loss:  1.893e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:24:08,372][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.167.mdlus[0m
+[2026-03-24 13:24:08,517][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.167.pt[0m
+[2026-03-24 13:24:08,517][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:24:25,285][main][INFO] - [94mepoch: 168, loss:  3.364e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 13:24:25,425][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.168.mdlus[0m
+[2026-03-24 13:24:25,572][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.168.pt[0m
+[2026-03-24 13:24:25,572][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:24:42,337][main][INFO] - [94mepoch: 169, loss:  2.465e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 13:24:42,477][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.169.mdlus[0m
+[2026-03-24 13:24:42,623][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.169.pt[0m
+[2026-03-24 13:24:42,624][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:24:59,429][main][INFO] - [94mepoch: 170, loss:  2.096e-02, time per epoch:  1.681e+01[0m
+[2026-03-24 13:24:59,556][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.170.mdlus[0m
+[2026-03-24 13:24:59,703][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.170.pt[0m
+[2026-03-24 13:24:59,704][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:25:16,222][main][INFO] - [94mepoch: 171, loss:  1.874e-02, time per epoch:  1.652e+01[0m
+[2026-03-24 13:25:16,370][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.171.mdlus[0m
+[2026-03-24 13:25:16,515][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.171.pt[0m
+[2026-03-24 13:25:16,515][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:25:33,154][main][INFO] - [94mepoch: 172, loss:  2.491e-02, time per epoch:  1.664e+01[0m
+[2026-03-24 13:25:33,291][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.172.mdlus[0m
+[2026-03-24 13:25:33,438][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.172.pt[0m
+[2026-03-24 13:25:33,438][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:25:50,174][main][INFO] - [94mepoch: 173, loss:  3.270e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 13:25:50,310][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.173.mdlus[0m
+[2026-03-24 13:25:50,459][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.173.pt[0m
+[2026-03-24 13:25:50,459][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:26:07,176][main][INFO] - [94mepoch: 174, loss:  1.708e-02, time per epoch:  1.672e+01[0m
+[2026-03-24 13:26:07,331][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.174.mdlus[0m
+[2026-03-24 13:26:07,484][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.174.pt[0m
+[2026-03-24 13:26:07,484][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:26:24,160][main][INFO] - [94mepoch: 175, loss:  2.392e-02, time per epoch:  1.668e+01[0m
+[2026-03-24 13:26:24,312][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.175.mdlus[0m
+[2026-03-24 13:26:24,463][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.175.pt[0m
+[2026-03-24 13:26:24,463][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:26:42,389][main][INFO] - [94mepoch: 176, loss:  3.072e-02, time per epoch:  1.793e+01[0m
+[2026-03-24 13:26:42,535][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.176.mdlus[0m
+[2026-03-24 13:26:42,684][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.176.pt[0m
+[2026-03-24 13:26:42,684][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:26:59,540][main][INFO] - [94mepoch: 177, loss:  1.973e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:26:59,685][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.177.mdlus[0m
+[2026-03-24 13:26:59,831][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.177.pt[0m
+[2026-03-24 13:26:59,831][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:27:16,401][main][INFO] - [94mepoch: 178, loss:  2.261e-02, time per epoch:  1.657e+01[0m
+[2026-03-24 13:27:16,550][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.178.mdlus[0m
+[2026-03-24 13:27:16,695][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.178.pt[0m
+[2026-03-24 13:27:16,695][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:27:33,548][main][INFO] - [94mepoch: 179, loss:  3.242e-02, time per epoch:  1.685e+01[0m
+[2026-03-24 13:27:33,706][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.179.mdlus[0m
+[2026-03-24 13:27:33,859][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.179.pt[0m
+[2026-03-24 13:27:33,859][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:27:50,661][main][INFO] - [94mepoch: 180, loss:  2.159e-02, time per epoch:  1.680e+01[0m
+[2026-03-24 13:27:50,798][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.180.mdlus[0m
+[2026-03-24 13:27:50,945][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.180.pt[0m
+[2026-03-24 13:27:50,945][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:28:07,712][main][INFO] - [94mepoch: 181, loss:  1.571e-01, time per epoch:  1.677e+01[0m
+[2026-03-24 13:28:07,861][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.181.mdlus[0m
+[2026-03-24 13:28:08,008][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.181.pt[0m
+[2026-03-24 13:28:08,008][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:28:24,759][main][INFO] - [94mepoch: 182, loss:  1.899e-02, time per epoch:  1.675e+01[0m
+[2026-03-24 13:28:24,915][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.182.mdlus[0m
+[2026-03-24 13:28:25,084][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.182.pt[0m
+[2026-03-24 13:28:25,085][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:28:42,069][main][INFO] - [94mepoch: 183, loss:  1.420e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 13:28:42,213][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.183.mdlus[0m
+[2026-03-24 13:28:42,361][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.183.pt[0m
+[2026-03-24 13:28:42,361][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:28:59,328][main][INFO] - [94mepoch: 184, loss:  2.381e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:28:59,472][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.184.mdlus[0m
+[2026-03-24 13:28:59,625][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.184.pt[0m
+[2026-03-24 13:28:59,625][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:29:16,608][main][INFO] - [94mepoch: 185, loss:  2.150e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 13:29:16,756][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.185.mdlus[0m
+[2026-03-24 13:29:16,903][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.185.pt[0m
+[2026-03-24 13:29:16,903][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:29:33,896][main][INFO] - [94mepoch: 186, loss:  2.357e-02, time per epoch:  1.699e+01[0m
+[2026-03-24 13:29:34,055][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.186.mdlus[0m
+[2026-03-24 13:29:34,208][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.186.pt[0m
+[2026-03-24 13:29:34,208][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:29:51,114][main][INFO] - [94mepoch: 187, loss:  2.206e-02, time per epoch:  1.691e+01[0m
+[2026-03-24 13:29:51,270][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.187.mdlus[0m
+[2026-03-24 13:29:51,418][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.187.pt[0m
+[2026-03-24 13:29:51,418][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:30:08,174][main][INFO] - [94mepoch: 188, loss:  2.620e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 13:30:08,326][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.188.mdlus[0m
+[2026-03-24 13:30:08,455][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.188.pt[0m
+[2026-03-24 13:30:08,455][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:30:25,211][main][INFO] - [94mepoch: 189, loss:  2.014e-02, time per epoch:  1.675e+01[0m
+[2026-03-24 13:30:25,357][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.189.mdlus[0m
+[2026-03-24 13:30:25,508][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.189.pt[0m
+[2026-03-24 13:30:25,509][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:30:42,760][main][INFO] - [94mepoch: 190, loss:  2.349e-02, time per epoch:  1.725e+01[0m
+[2026-03-24 13:30:42,910][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.190.mdlus[0m
+[2026-03-24 13:30:43,057][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.190.pt[0m
+[2026-03-24 13:30:43,057][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:30:59,823][main][INFO] - [94mepoch: 191, loss:  1.908e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 13:30:59,989][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.191.mdlus[0m
+[2026-03-24 13:31:00,137][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.191.pt[0m
+[2026-03-24 13:31:00,138][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:31:16,930][main][INFO] - [94mepoch: 192, loss:  2.158e-02, time per epoch:  1.679e+01[0m
+[2026-03-24 13:31:17,087][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.192.mdlus[0m
+[2026-03-24 13:31:17,234][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.192.pt[0m
+[2026-03-24 13:31:17,234][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:31:33,923][main][INFO] - [94mepoch: 193, loss:  2.402e-02, time per epoch:  1.669e+01[0m
+[2026-03-24 13:31:34,074][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.193.mdlus[0m
+[2026-03-24 13:31:34,220][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.193.pt[0m
+[2026-03-24 13:31:34,221][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:31:51,041][main][INFO] - [94mepoch: 194, loss:  1.450e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:31:51,186][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.194.mdlus[0m
+[2026-03-24 13:31:51,337][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.194.pt[0m
+[2026-03-24 13:31:51,338][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:32:08,341][main][INFO] - [94mepoch: 195, loss:  1.392e-02, time per epoch:  1.700e+01[0m
+[2026-03-24 13:32:08,497][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.195.mdlus[0m
+[2026-03-24 13:32:08,647][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.195.pt[0m
+[2026-03-24 13:32:08,647][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:32:25,199][main][INFO] - [94mepoch: 196, loss:  2.116e-02, time per epoch:  1.655e+01[0m
+[2026-03-24 13:32:25,355][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.196.mdlus[0m
+[2026-03-24 13:32:25,504][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.196.pt[0m
+[2026-03-24 13:32:25,504][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:32:42,924][main][INFO] - [94mepoch: 197, loss:  1.904e-02, time per epoch:  1.742e+01[0m
+[2026-03-24 13:32:43,083][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.197.mdlus[0m
+[2026-03-24 13:32:43,231][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.197.pt[0m
+[2026-03-24 13:32:43,231][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:33:00,100][main][INFO] - [94mepoch: 198, loss:  1.397e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:33:00,254][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.198.mdlus[0m
+[2026-03-24 13:33:00,409][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.198.pt[0m
+[2026-03-24 13:33:00,410][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:33:17,240][main][INFO] - [94mepoch: 199, loss:  1.298e-02, time per epoch:  1.683e+01[0m
+[2026-03-24 13:33:17,386][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.199.mdlus[0m
+[2026-03-24 13:33:17,540][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.199.pt[0m
+[2026-03-24 13:33:17,541][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:33:34,508][main][INFO] - [94mepoch: 200, loss:  2.452e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:33:34,652][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.200.mdlus[0m
+[2026-03-24 13:33:34,804][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.200.pt[0m
+[2026-03-24 13:33:34,805][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:33:52,141][main][INFO] - [94mepoch: 201, loss:  1.872e-02, time per epoch:  1.734e+01[0m
+[2026-03-24 13:33:52,294][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.201.mdlus[0m
+[2026-03-24 13:33:52,444][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.201.pt[0m
+[2026-03-24 13:33:52,444][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:34:09,118][main][INFO] - [94mepoch: 202, loss:  1.510e-02, time per epoch:  1.667e+01[0m
+[2026-03-24 13:34:09,259][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.202.mdlus[0m
+[2026-03-24 13:34:09,408][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.202.pt[0m
+[2026-03-24 13:34:09,409][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:34:26,378][main][INFO] - [94mepoch: 203, loss:  2.542e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:34:26,513][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.203.mdlus[0m
+[2026-03-24 13:34:26,657][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.203.pt[0m
+[2026-03-24 13:34:26,657][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:34:43,445][main][INFO] - [94mepoch: 204, loss:  2.165e-02, time per epoch:  1.679e+01[0m
+[2026-03-24 13:34:43,597][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.204.mdlus[0m
+[2026-03-24 13:34:43,744][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.204.pt[0m
+[2026-03-24 13:34:43,744][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:35:00,719][main][INFO] - [94mepoch: 205, loss:  1.407e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 13:35:00,873][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.205.mdlus[0m
+[2026-03-24 13:35:01,027][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.205.pt[0m
+[2026-03-24 13:35:01,028][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:35:17,816][main][INFO] - [94mepoch: 206, loss:  1.925e-02, time per epoch:  1.679e+01[0m
+[2026-03-24 13:35:17,976][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.206.mdlus[0m
+[2026-03-24 13:35:18,124][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.206.pt[0m
+[2026-03-24 13:35:18,124][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:35:35,089][main][INFO] - [94mepoch: 207, loss:  1.479e-02, time per epoch:  1.696e+01[0m
+[2026-03-24 13:35:35,253][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.207.mdlus[0m
+[2026-03-24 13:35:35,408][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.207.pt[0m
+[2026-03-24 13:35:35,408][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:35:52,286][main][INFO] - [94mepoch: 208, loss:  1.922e-02, time per epoch:  1.688e+01[0m
+[2026-03-24 13:35:52,432][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.208.mdlus[0m
+[2026-03-24 13:35:52,579][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.208.pt[0m
+[2026-03-24 13:35:52,579][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:36:09,481][main][INFO] - [94mepoch: 209, loss:  1.963e-02, time per epoch:  1.690e+01[0m
+[2026-03-24 13:36:09,641][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.209.mdlus[0m
+[2026-03-24 13:36:09,786][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.209.pt[0m
+[2026-03-24 13:36:09,786][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:36:26,729][main][INFO] - [94mepoch: 210, loss:  2.262e-02, time per epoch:  1.694e+01[0m
+[2026-03-24 13:36:26,889][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.210.mdlus[0m
+[2026-03-24 13:36:27,036][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.210.pt[0m
+[2026-03-24 13:36:27,036][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:36:43,817][main][INFO] - [94mepoch: 211, loss:  1.512e-02, time per epoch:  1.678e+01[0m
+[2026-03-24 13:36:43,971][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.211.mdlus[0m
+[2026-03-24 13:36:44,120][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.211.pt[0m
+[2026-03-24 13:36:44,120][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:37:00,776][main][INFO] - [94mepoch: 212, loss:  1.306e-02, time per epoch:  1.666e+01[0m
+[2026-03-24 13:37:00,930][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.212.mdlus[0m
+[2026-03-24 13:37:01,076][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.212.pt[0m
+[2026-03-24 13:37:01,076][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:37:17,969][main][INFO] - [94mepoch: 213, loss:  1.917e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:37:18,101][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.213.mdlus[0m
+[2026-03-24 13:37:18,245][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.213.pt[0m
+[2026-03-24 13:37:18,245][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:37:35,164][main][INFO] - [94mepoch: 214, loss:  1.440e-02, time per epoch:  1.692e+01[0m
+[2026-03-24 13:37:35,312][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.214.mdlus[0m
+[2026-03-24 13:37:35,459][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.214.pt[0m
+[2026-03-24 13:37:35,459][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:37:52,327][main][INFO] - [94mepoch: 215, loss:  1.618e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:37:52,466][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.215.mdlus[0m
+[2026-03-24 13:37:52,613][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.215.pt[0m
+[2026-03-24 13:37:52,613][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:38:09,438][main][INFO] - [94mepoch: 216, loss:  2.452e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:38:09,588][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.216.mdlus[0m
+[2026-03-24 13:38:09,738][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.216.pt[0m
+[2026-03-24 13:38:09,738][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:38:26,528][main][INFO] - [94mepoch: 217, loss:  1.125e-02, time per epoch:  1.679e+01[0m
+[2026-03-24 13:38:26,666][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.217.mdlus[0m
+[2026-03-24 13:38:26,817][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.217.pt[0m
+[2026-03-24 13:38:26,818][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:38:44,808][main][INFO] - [94mepoch: 218, loss:  2.414e-02, time per epoch:  1.799e+01[0m
+[2026-03-24 13:38:44,968][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.218.mdlus[0m
+[2026-03-24 13:38:45,119][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.218.pt[0m
+[2026-03-24 13:38:45,119][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:39:01,883][main][INFO] - [94mepoch: 219, loss:  2.207e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 13:39:02,041][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.219.mdlus[0m
+[2026-03-24 13:39:02,202][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.219.pt[0m
+[2026-03-24 13:39:02,202][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:39:18,953][main][INFO] - [94mepoch: 220, loss:  1.978e-02, time per epoch:  1.675e+01[0m
+[2026-03-24 13:39:19,108][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.220.mdlus[0m
+[2026-03-24 13:39:19,262][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.220.pt[0m
+[2026-03-24 13:39:19,262][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:39:36,027][main][INFO] - [94mepoch: 221, loss:  1.801e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 13:39:36,179][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.221.mdlus[0m
+[2026-03-24 13:39:36,338][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.221.pt[0m
+[2026-03-24 13:39:36,338][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:39:53,045][main][INFO] - [94mepoch: 222, loss:  1.413e-02, time per epoch:  1.671e+01[0m
+[2026-03-24 13:39:53,187][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.222.mdlus[0m
+[2026-03-24 13:39:53,335][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.222.pt[0m
+[2026-03-24 13:39:53,335][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:40:10,080][main][INFO] - [94mepoch: 223, loss:  1.434e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 13:40:10,236][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.223.mdlus[0m
+[2026-03-24 13:40:10,384][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.223.pt[0m
+[2026-03-24 13:40:10,384][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:40:27,120][main][INFO] - [94mepoch: 224, loss:  1.336e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 13:40:27,254][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.224.mdlus[0m
+[2026-03-24 13:40:27,401][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.224.pt[0m
+[2026-03-24 13:40:27,402][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:40:44,237][main][INFO] - [94mepoch: 225, loss:  1.365e-02, time per epoch:  1.684e+01[0m
+[2026-03-24 13:40:44,378][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.225.mdlus[0m
+[2026-03-24 13:40:44,528][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.225.pt[0m
+[2026-03-24 13:40:44,528][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:41:01,392][main][INFO] - [94mepoch: 226, loss:  1.082e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:41:01,526][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.226.mdlus[0m
+[2026-03-24 13:41:01,676][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.226.pt[0m
+[2026-03-24 13:41:01,676][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:41:18,264][main][INFO] - [94mepoch: 227, loss:  2.141e-02, time per epoch:  1.659e+01[0m
+[2026-03-24 13:41:18,416][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.227.mdlus[0m
+[2026-03-24 13:41:18,562][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.227.pt[0m
+[2026-03-24 13:41:18,562][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:41:35,532][main][INFO] - [94mepoch: 228, loss:  2.305e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:41:35,674][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.228.mdlus[0m
+[2026-03-24 13:41:35,820][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.228.pt[0m
+[2026-03-24 13:41:35,820][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:41:52,849][main][INFO] - [94mepoch: 229, loss:  1.102e-02, time per epoch:  1.703e+01[0m
+[2026-03-24 13:41:52,998][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.229.mdlus[0m
+[2026-03-24 13:41:53,143][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.229.pt[0m
+[2026-03-24 13:41:53,143][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:42:09,811][main][INFO] - [94mepoch: 230, loss:  1.871e-02, time per epoch:  1.667e+01[0m
+[2026-03-24 13:42:09,960][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.230.mdlus[0m
+[2026-03-24 13:42:10,111][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.230.pt[0m
+[2026-03-24 13:42:10,111][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:42:26,912][main][INFO] - [94mepoch: 231, loss:  1.743e-02, time per epoch:  1.680e+01[0m
+[2026-03-24 13:42:27,059][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.231.mdlus[0m
+[2026-03-24 13:42:27,210][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.231.pt[0m
+[2026-03-24 13:42:27,210][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:42:43,848][main][INFO] - [94mepoch: 232, loss:  1.342e-02, time per epoch:  1.664e+01[0m
+[2026-03-24 13:42:43,997][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.232.mdlus[0m
+[2026-03-24 13:42:44,141][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.232.pt[0m
+[2026-03-24 13:42:44,142][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:43:00,724][main][INFO] - [94mepoch: 233, loss:  1.778e-02, time per epoch:  1.658e+01[0m
+[2026-03-24 13:43:00,868][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.233.mdlus[0m
+[2026-03-24 13:43:01,016][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.233.pt[0m
+[2026-03-24 13:43:01,017][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:43:17,933][main][INFO] - [94mepoch: 234, loss:  2.289e-02, time per epoch:  1.692e+01[0m
+[2026-03-24 13:43:18,096][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.234.mdlus[0m
+[2026-03-24 13:43:18,243][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.234.pt[0m
+[2026-03-24 13:43:18,243][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:43:35,288][main][INFO] - [94mepoch: 235, loss:  1.152e-02, time per epoch:  1.704e+01[0m
+[2026-03-24 13:43:35,431][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.235.mdlus[0m
+[2026-03-24 13:43:35,579][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.235.pt[0m
+[2026-03-24 13:43:35,579][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:43:52,532][main][INFO] - [94mepoch: 236, loss:  1.657e-02, time per epoch:  1.695e+01[0m
+[2026-03-24 13:43:52,667][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.236.mdlus[0m
+[2026-03-24 13:43:52,817][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.236.pt[0m
+[2026-03-24 13:43:52,817][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:44:09,708][main][INFO] - [94mepoch: 237, loss:  1.463e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:44:09,857][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.237.mdlus[0m
+[2026-03-24 13:44:10,014][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.237.pt[0m
+[2026-03-24 13:44:10,014][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:44:26,875][main][INFO] - [94mepoch: 238, loss:  1.396e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:44:27,019][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.238.mdlus[0m
+[2026-03-24 13:44:27,170][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.238.pt[0m
+[2026-03-24 13:44:27,171][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:44:44,676][main][INFO] - [94mepoch: 239, loss:  1.197e-02, time per epoch:  1.750e+01[0m
+[2026-03-24 13:44:44,806][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.239.mdlus[0m
+[2026-03-24 13:44:44,935][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.239.pt[0m
+[2026-03-24 13:44:44,935][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:45:01,559][main][INFO] - [94mepoch: 240, loss:  1.754e-02, time per epoch:  1.662e+01[0m
+[2026-03-24 13:45:01,708][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.240.mdlus[0m
+[2026-03-24 13:45:01,855][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.240.pt[0m
+[2026-03-24 13:45:01,856][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:45:18,845][main][INFO] - [94mepoch: 241, loss:  2.002e-02, time per epoch:  1.699e+01[0m
+[2026-03-24 13:45:18,978][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.241.mdlus[0m
+[2026-03-24 13:45:19,108][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.241.pt[0m
+[2026-03-24 13:45:19,109][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:45:35,956][main][INFO] - [94mepoch: 242, loss:  2.605e-02, time per epoch:  1.685e+01[0m
+[2026-03-24 13:45:36,098][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.242.mdlus[0m
+[2026-03-24 13:45:36,246][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.242.pt[0m
+[2026-03-24 13:45:36,246][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:45:53,399][main][INFO] - [94mepoch: 243, loss:  1.407e-02, time per epoch:  1.715e+01[0m
+[2026-03-24 13:45:53,542][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.243.mdlus[0m
+[2026-03-24 13:45:53,691][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.243.pt[0m
+[2026-03-24 13:45:53,692][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:46:10,740][main][INFO] - [94mepoch: 244, loss:  2.446e-02, time per epoch:  1.705e+01[0m
+[2026-03-24 13:46:10,874][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.244.mdlus[0m
+[2026-03-24 13:46:11,022][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.244.pt[0m
+[2026-03-24 13:46:11,023][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:46:27,576][main][INFO] - [94mepoch: 245, loss:  3.997e-02, time per epoch:  1.655e+01[0m
+[2026-03-24 13:46:27,710][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.245.mdlus[0m
+[2026-03-24 13:46:27,856][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.245.pt[0m
+[2026-03-24 13:46:27,857][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:46:44,349][main][INFO] - [94mepoch: 246, loss:  2.110e-02, time per epoch:  1.649e+01[0m
+[2026-03-24 13:46:44,499][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.246.mdlus[0m
+[2026-03-24 13:46:44,646][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.246.pt[0m
+[2026-03-24 13:46:44,646][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:47:01,283][main][INFO] - [94mepoch: 247, loss:  1.541e-02, time per epoch:  1.664e+01[0m
+[2026-03-24 13:47:01,442][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.247.mdlus[0m
+[2026-03-24 13:47:01,591][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.247.pt[0m
+[2026-03-24 13:47:01,592][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:47:18,182][main][INFO] - [94mepoch: 248, loss:  2.062e-02, time per epoch:  1.659e+01[0m
+[2026-03-24 13:47:18,335][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.248.mdlus[0m
+[2026-03-24 13:47:18,482][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.248.pt[0m
+[2026-03-24 13:47:18,482][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:47:35,298][main][INFO] - [94mepoch: 249, loss:  1.589e-02, time per epoch:  1.682e+01[0m
+[2026-03-24 13:47:35,461][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.249.mdlus[0m
+[2026-03-24 13:47:35,609][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.249.pt[0m
+[2026-03-24 13:47:35,610][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:47:52,369][main][INFO] - [94mepoch: 250, loss:  2.021e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 13:47:52,529][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.250.mdlus[0m
+[2026-03-24 13:47:52,677][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.250.pt[0m
+[2026-03-24 13:47:52,677][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:48:09,591][main][INFO] - [94mepoch: 251, loss:  1.774e-02, time per epoch:  1.691e+01[0m
+[2026-03-24 13:48:09,736][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.251.mdlus[0m
+[2026-03-24 13:48:09,881][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.251.pt[0m
+[2026-03-24 13:48:09,881][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:48:26,764][main][INFO] - [94mepoch: 252, loss:  1.130e-02, time per epoch:  1.688e+01[0m
+[2026-03-24 13:48:26,905][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.252.mdlus[0m
+[2026-03-24 13:48:27,053][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.252.pt[0m
+[2026-03-24 13:48:27,053][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:48:43,769][main][INFO] - [94mepoch: 253, loss:  3.002e-02, time per epoch:  1.672e+01[0m
+[2026-03-24 13:48:43,912][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.253.mdlus[0m
+[2026-03-24 13:48:44,057][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.253.pt[0m
+[2026-03-24 13:48:44,058][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:49:00,824][main][INFO] - [94mepoch: 254, loss:  1.883e-02, time per epoch:  1.677e+01[0m
+[2026-03-24 13:49:00,966][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.254.mdlus[0m
+[2026-03-24 13:49:01,114][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.254.pt[0m
+[2026-03-24 13:49:01,114][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:49:17,914][main][INFO] - [94mepoch: 255, loss:  1.284e-02, time per epoch:  1.680e+01[0m
+[2026-03-24 13:49:18,070][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.255.mdlus[0m
+[2026-03-24 13:49:18,220][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.255.pt[0m
+[2026-03-24 13:49:18,220][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:49:35,217][main][INFO] - [94mepoch: 256, loss:  1.071e-02, time per epoch:  1.700e+01[0m
+[2026-03-24 13:49:35,360][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.256.mdlus[0m
+[2026-03-24 13:49:35,511][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.256.pt[0m
+[2026-03-24 13:49:35,511][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:49:52,366][main][INFO] - [94mepoch: 257, loss:  1.865e-02, time per epoch:  1.685e+01[0m
+[2026-03-24 13:49:52,518][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.257.mdlus[0m
+[2026-03-24 13:49:52,666][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.257.pt[0m
+[2026-03-24 13:49:52,667][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:50:09,312][main][INFO] - [94mepoch: 258, loss:  1.196e-02, time per epoch:  1.665e+01[0m
+[2026-03-24 13:50:09,458][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.258.mdlus[0m
+[2026-03-24 13:50:09,605][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.258.pt[0m
+[2026-03-24 13:50:09,605][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:50:26,571][main][INFO] - [94mepoch: 259, loss:  1.721e-02, time per epoch:  1.697e+01[0m
+[2026-03-24 13:50:26,717][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.259.mdlus[0m
+[2026-03-24 13:50:26,874][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.259.pt[0m
+[2026-03-24 13:50:26,875][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:50:44,169][main][INFO] - [94mepoch: 260, loss:  1.193e-02, time per epoch:  1.729e+01[0m
+[2026-03-24 13:50:44,316][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.260.mdlus[0m
+[2026-03-24 13:50:44,466][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.260.pt[0m
+[2026-03-24 13:50:44,467][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:51:01,330][main][INFO] - [94mepoch: 261, loss:  1.196e-02, time per epoch:  1.686e+01[0m
+[2026-03-24 13:51:01,492][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.261.mdlus[0m
+[2026-03-24 13:51:01,642][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.261.pt[0m
+[2026-03-24 13:51:01,642][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:51:18,345][main][INFO] - [94mepoch: 262, loss:  8.973e-03, time per epoch:  1.670e+01[0m
+[2026-03-24 13:51:18,500][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.262.mdlus[0m
+[2026-03-24 13:51:18,657][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.262.pt[0m
+[2026-03-24 13:51:18,657][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:51:35,532][main][INFO] - [94mepoch: 263, loss:  1.666e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 13:51:35,678][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.263.mdlus[0m
+[2026-03-24 13:51:35,826][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.263.pt[0m
+[2026-03-24 13:51:35,826][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:51:52,656][main][INFO] - [94mepoch: 264, loss:  2.675e-02, time per epoch:  1.683e+01[0m
+[2026-03-24 13:51:52,788][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.264.mdlus[0m
+[2026-03-24 13:51:52,932][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.264.pt[0m
+[2026-03-24 13:51:52,932][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:52:09,837][main][INFO] - [94mepoch: 265, loss:  1.455e-02, time per epoch:  1.690e+01[0m
+[2026-03-24 13:52:09,984][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.265.mdlus[0m
+[2026-03-24 13:52:10,135][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.265.pt[0m
+[2026-03-24 13:52:10,135][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:52:26,636][main][INFO] - [94mepoch: 266, loss:  1.789e-02, time per epoch:  1.650e+01[0m
+[2026-03-24 13:52:26,769][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.266.mdlus[0m
+[2026-03-24 13:52:26,915][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.266.pt[0m
+[2026-03-24 13:52:26,915][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:52:43,655][main][INFO] - [94mepoch: 267, loss:  1.774e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 13:52:43,812][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.267.mdlus[0m
+[2026-03-24 13:52:43,966][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.267.pt[0m
+[2026-03-24 13:52:43,967][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:53:00,668][main][INFO] - [94mepoch: 268, loss:  1.770e-02, time per epoch:  1.670e+01[0m
+[2026-03-24 13:53:00,798][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.268.mdlus[0m
+[2026-03-24 13:53:00,944][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.268.pt[0m
+[2026-03-24 13:53:00,945][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:53:17,741][main][INFO] - [94mepoch: 269, loss:  1.509e-02, time per epoch:  1.680e+01[0m
+[2026-03-24 13:53:17,883][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.269.mdlus[0m
+[2026-03-24 13:53:18,028][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.269.pt[0m
+[2026-03-24 13:53:18,029][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:53:34,676][main][INFO] - [94mepoch: 270, loss:  2.347e-02, time per epoch:  1.665e+01[0m
+[2026-03-24 13:53:34,814][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.270.mdlus[0m
+[2026-03-24 13:53:34,961][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.270.pt[0m
+[2026-03-24 13:53:34,961][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:53:51,453][main][INFO] - [94mepoch: 271, loss:  1.558e-02, time per epoch:  1.649e+01[0m
+[2026-03-24 13:53:51,595][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.271.mdlus[0m
+[2026-03-24 13:53:51,738][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.271.pt[0m
+[2026-03-24 13:53:51,739][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:54:08,449][main][INFO] - [94mepoch: 272, loss:  1.656e-02, time per epoch:  1.671e+01[0m
+[2026-03-24 13:54:08,586][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.272.mdlus[0m
+[2026-03-24 13:54:08,730][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.272.pt[0m
+[2026-03-24 13:54:08,731][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:54:25,815][main][INFO] - [94mepoch: 273, loss:  1.269e-02, time per epoch:  1.708e+01[0m
+[2026-03-24 13:54:25,962][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.273.mdlus[0m
+[2026-03-24 13:54:26,109][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.273.pt[0m
+[2026-03-24 13:54:26,109][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:54:42,871][main][INFO] - [94mepoch: 274, loss:  1.372e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 13:54:43,021][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.274.mdlus[0m
+[2026-03-24 13:54:43,169][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.274.pt[0m
+[2026-03-24 13:54:43,169][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:55:00,385][main][INFO] - [94mepoch: 275, loss:  2.686e-02, time per epoch:  1.722e+01[0m
+[2026-03-24 13:55:00,525][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.275.mdlus[0m
+[2026-03-24 13:55:00,677][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.275.pt[0m
+[2026-03-24 13:55:00,677][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:55:17,690][main][INFO] - [94mepoch: 276, loss:  1.214e-02, time per epoch:  1.701e+01[0m
+[2026-03-24 13:55:17,874][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.276.mdlus[0m
+[2026-03-24 13:55:18,056][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.276.pt[0m
+[2026-03-24 13:55:18,056][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:55:35,038][main][INFO] - [94mepoch: 277, loss:  1.703e-02, time per epoch:  1.698e+01[0m
+[2026-03-24 13:55:35,198][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.277.mdlus[0m
+[2026-03-24 13:55:35,346][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.277.pt[0m
+[2026-03-24 13:55:35,346][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:55:52,377][main][INFO] - [94mepoch: 278, loss:  2.177e-02, time per epoch:  1.703e+01[0m
+[2026-03-24 13:55:52,535][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.278.mdlus[0m
+[2026-03-24 13:55:52,687][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.278.pt[0m
+[2026-03-24 13:55:52,688][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:56:09,761][main][INFO] - [94mepoch: 279, loss:  2.320e-02, time per epoch:  1.707e+01[0m
+[2026-03-24 13:56:09,907][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.279.mdlus[0m
+[2026-03-24 13:56:10,059][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.279.pt[0m
+[2026-03-24 13:56:10,059][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:56:27,336][main][INFO] - [94mepoch: 280, loss:  1.718e-02, time per epoch:  1.728e+01[0m
+[2026-03-24 13:56:27,489][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.280.mdlus[0m
+[2026-03-24 13:56:27,639][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.280.pt[0m
+[2026-03-24 13:56:27,639][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:56:45,471][main][INFO] - [94mepoch: 281, loss:  1.430e-02, time per epoch:  1.783e+01[0m
+[2026-03-24 13:56:45,627][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.281.mdlus[0m
+[2026-03-24 13:56:45,781][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.281.pt[0m
+[2026-03-24 13:56:45,781][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:57:00,504][main][INFO] - [94mepoch: 282, loss:  8.836e-03, time per epoch:  1.472e+01[0m
+[2026-03-24 13:57:00,636][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.282.mdlus[0m
+[2026-03-24 13:57:00,770][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.282.pt[0m
+[2026-03-24 13:57:00,770][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:57:15,600][main][INFO] - [94mepoch: 283, loss:  1.373e-02, time per epoch:  1.483e+01[0m
+[2026-03-24 13:57:15,734][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.283.mdlus[0m
+[2026-03-24 13:57:15,864][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.283.pt[0m
+[2026-03-24 13:57:15,865][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:57:30,739][main][INFO] - [94mepoch: 284, loss:  1.727e-02, time per epoch:  1.487e+01[0m
+[2026-03-24 13:57:30,869][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.284.mdlus[0m
+[2026-03-24 13:57:31,027][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.284.pt[0m
+[2026-03-24 13:57:31,028][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:57:45,703][main][INFO] - [94mepoch: 285, loss:  1.242e-02, time per epoch:  1.467e+01[0m
+[2026-03-24 13:57:45,821][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.285.mdlus[0m
+[2026-03-24 13:57:45,952][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.285.pt[0m
+[2026-03-24 13:57:45,952][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:58:01,992][main][INFO] - [94mepoch: 286, loss:  1.503e-02, time per epoch:  1.604e+01[0m
+[2026-03-24 13:58:02,142][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.286.mdlus[0m
+[2026-03-24 13:58:02,289][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.286.pt[0m
+[2026-03-24 13:58:02,289][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:58:19,144][main][INFO] - [94mepoch: 287, loss:  1.662e-02, time per epoch:  1.685e+01[0m
+[2026-03-24 13:58:19,282][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.287.mdlus[0m
+[2026-03-24 13:58:19,447][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.287.pt[0m
+[2026-03-24 13:58:19,447][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:58:36,148][main][INFO] - [94mepoch: 288, loss:  8.610e-03, time per epoch:  1.670e+01[0m
+[2026-03-24 13:58:36,302][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.288.mdlus[0m
+[2026-03-24 13:58:36,451][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.288.pt[0m
+[2026-03-24 13:58:36,451][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:58:53,164][main][INFO] - [94mepoch: 289, loss:  1.497e-02, time per epoch:  1.671e+01[0m
+[2026-03-24 13:58:53,304][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.289.mdlus[0m
+[2026-03-24 13:58:53,448][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.289.pt[0m
+[2026-03-24 13:58:53,448][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:59:10,392][main][INFO] - [94mepoch: 290, loss:  1.634e-02, time per epoch:  1.694e+01[0m
+[2026-03-24 13:59:10,530][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.290.mdlus[0m
+[2026-03-24 13:59:10,674][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.290.pt[0m
+[2026-03-24 13:59:10,674][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:59:27,415][main][INFO] - [94mepoch: 291, loss:  1.551e-02, time per epoch:  1.674e+01[0m
+[2026-03-24 13:59:27,566][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.291.mdlus[0m
+[2026-03-24 13:59:27,713][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.291.pt[0m
+[2026-03-24 13:59:27,714][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 13:59:44,603][main][INFO] - [94mepoch: 292, loss:  1.190e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 13:59:44,758][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.292.mdlus[0m
+[2026-03-24 13:59:44,910][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.292.pt[0m
+[2026-03-24 13:59:44,910][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:00:01,667][main][INFO] - [94mepoch: 293, loss:  1.287e-02, time per epoch:  1.676e+01[0m
+[2026-03-24 14:00:01,810][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.293.mdlus[0m
+[2026-03-24 14:00:01,958][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.293.pt[0m
+[2026-03-24 14:00:01,958][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:00:18,833][main][INFO] - [94mepoch: 294, loss:  1.114e-02, time per epoch:  1.687e+01[0m
+[2026-03-24 14:00:18,980][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.294.mdlus[0m
+[2026-03-24 14:00:19,127][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.294.pt[0m
+[2026-03-24 14:00:19,127][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:00:35,846][main][INFO] - [94mepoch: 295, loss:  1.753e-02, time per epoch:  1.672e+01[0m
+[2026-03-24 14:00:35,981][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.295.mdlus[0m
+[2026-03-24 14:00:36,128][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.295.pt[0m
+[2026-03-24 14:00:36,129][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:00:53,490][main][INFO] - [94mepoch: 296, loss:  1.411e-02, time per epoch:  1.736e+01[0m
+[2026-03-24 14:00:53,636][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.296.mdlus[0m
+[2026-03-24 14:00:53,787][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.296.pt[0m
+[2026-03-24 14:00:53,787][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:01:10,676][main][INFO] - [94mepoch: 297, loss:  2.149e-02, time per epoch:  1.689e+01[0m
+[2026-03-24 14:01:10,828][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.297.mdlus[0m
+[2026-03-24 14:01:10,973][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.297.pt[0m
+[2026-03-24 14:01:10,974][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:01:27,827][main][INFO] - [94mepoch: 298, loss:  1.630e-02, time per epoch:  1.685e+01[0m
+[2026-03-24 14:01:27,958][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.298.mdlus[0m
+[2026-03-24 14:01:28,115][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.298.pt[0m
+[2026-03-24 14:01:28,115][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:01:44,704][main][INFO] - [94mepoch: 299, loss:  1.060e-02, time per epoch:  1.659e+01[0m
+[2026-03-24 14:01:44,852][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.299.mdlus[0m
+[2026-03-24 14:01:45,000][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.299.pt[0m
+[2026-03-24 14:01:45,001][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:02:02,031][main][INFO] - [94mepoch: 300, loss:  1.873e-02, time per epoch:  1.703e+01[0m
+[2026-03-24 14:02:02,180][checkpoint][INFO] - [92mSaved model state dictionary: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/HybridMeshGraphNet.0.300.mdlus[0m
+[2026-03-24 14:02:02,308][checkpoint][INFO] - [92mSaved training checkpoint: /data/YSY/physicsnemo/examples/structural_mechanics/physicsnemo_tube/checkpoints/mgn_tube.pt/checkpoint.0.300.pt[0m
+[2026-03-24 14:02:02,308][main][INFO] - [94mSaved model on rank 0[0m
+[2026-03-24 14:02:02,308][main][INFO] - [94mTraining completed![0m
